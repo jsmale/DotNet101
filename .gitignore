@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DotNet101.Tests/bin
+/DotNet101.Tests/obj
+/packages
+/DotNet101.sln.DotSettings.user
